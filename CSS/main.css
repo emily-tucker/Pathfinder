@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/********* Menu CSS *******/
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+.navbar-inverse {
+	font-size:14px;
+  }
+
+}
+
+@media (max-width: 767px) {
+.dropdown-menu {
+    display: none !important;
+}
+
+.open .dropdown-menu {
+    display: block !important;
+}
+}
+
+/********* Header Styling*********/
+.topSpace{
+	padding-top:5%;
+}
