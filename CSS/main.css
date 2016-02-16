@@ -10,8 +10,6 @@ display: block;
 	font-size:14px;
   }
 
-}
-
 @media (max-width: 767px) {
 .dropdown-menu {
     display: none !important;
